@@ -1,5 +1,7 @@
 # project1
-NovProject1
-Music player application that searches for songs/artists.
-plays your favorite music in Mp3 format. 
-Later development will have a video player
+RAndom name generator app that can be used to find names for newborn babies
+Can be used to have fake names, nicknames when playing sports or any fun activity.
+You have three language option;
+*English (US)
+*English (UK)
+*Swahili (Kenya)
